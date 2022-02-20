@@ -1,0 +1,22 @@
+.intro {
+    margin-top: 20px;
+    text-align: center;
+    color: #DEB887;
+}
+
+.space {
+    margin-top: 8%;
+}
+
+.totheleft {
+    text-align: left;
+}
+
+.table-text {
+    padding: 35px 15px;
+    font-weight: bold;
+}
+
+.classFooter {
+    text-align: center;
+}
